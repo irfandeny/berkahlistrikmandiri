@@ -153,7 +153,7 @@ include 'includes/header.php';
                     <img class="author-img" src="https://i.pravatar.cc/150?img=1" alt="Andi">
                     <div class="author-info">
                         <h4>Andi Wijaya</h4>
-                        <p>Jakarta Selatan</p>
+                        <p>Surabaya</p>
                     </div>
                 </div>
             </div>
@@ -171,7 +171,7 @@ include 'includes/header.php';
                     <img class="author-img" src="https://i.pravatar.cc/150?img=2" alt="Siti">
                     <div class="author-info">
                         <h4>Siti Nurhaliza</h4>
-                        <p>Bandung</p>
+                        <p>Bangkalan
                     </div>
                 </div>
             </div>
