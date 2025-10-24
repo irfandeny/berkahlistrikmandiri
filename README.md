@@ -44,7 +44,7 @@ berkah-listrik-mandiri/
 ### Menggunakan XAMPP:
 
 1. Install XAMPP
-2. Copy folder `berkah-listrik-mandiri` ke folder `htdocs` di instalasi XAMPP anda
+2. Copy folder `berkah-listrik-mandiri` ke folder `htdocs` di instalasi XAMPP
    - Windows: `C:\xampp\htdocs\`
 3. Buka XAMPP Control Panel
 4. Start module Apache dan MySQL
@@ -53,7 +53,7 @@ berkah-listrik-mandiri/
 ### Menggunakan Laragon:
 
 1. Install Laragon
-2. Copy folder `berkah-listrik-mandiri` ke folder `www` di instalasi Laragon anda
+2. Copy folder `berkah-listrik-mandiri` ke folder `www` di instalasi Laragon
    - Windows: `C:\laragon\www\`
 3. Buka Laragon
 4. Start All
