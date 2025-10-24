@@ -2,7 +2,6 @@
 $pageTitle = "Tentang Kami"; 
 include 'includes/header.php';
 ?>
-
     <!-- ABOUT HERO -->
     <section class="hero" style="padding: 60px 2rem;">
         <div class="hero-content">

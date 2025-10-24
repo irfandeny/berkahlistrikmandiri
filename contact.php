@@ -2,7 +2,6 @@
 $pageTitle = "Kontak"; 
 include 'includes/header.php';
 ?>
-
     <!-- CONTACT HERO -->
     <section class="hero" style="padding: 60px 2rem;">
         <div class="hero-content">
